@@ -27,7 +27,7 @@ When the script is installed/enabled, then just click all answers, a popup will 
 1. Install the [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/){:target="_blank"} or [Violent Monkey](https://addons.opera.com/en/extensions/details/violent-monkey/){:target="_blank"} addon.
 2. Add the [userscript](https://github.com/kres0345/MatematikFessorCheatExtension/raw/master/src/Userscript/MatematikFessorCheat.user.js){:target="_blank"}, then press 'install'.
 
-[//]: <> (__)
+[//]: # (__)
 
 ### Manuel:
 1. Open the task you wish to cheat on, then press 'f12'.
