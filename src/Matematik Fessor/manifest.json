@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Matematik Fessor Cheats 'Proof of work'",
+  "version": "0.1",
+  "author": "Kresten Laust :)",
+   "browser_action": {
+   },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://matematikfessor.dk/*"
+      ],
+      "js": ["jquery-3.3.1.min.js","content.js"]
+    }
+  ]
+}
